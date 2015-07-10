@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo is required for a coursera course in ata science
+This repo is required for a coursera course in data science
